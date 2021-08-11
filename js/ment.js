@@ -1,5 +1,4 @@
-
-/** smart.js ver 1.01
+/** ment.js ver 1.01
 **/
 function $NewScript(URL) {
 var new_script = document.createElement('script');
